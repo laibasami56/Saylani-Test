@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#background{
+    background:url('/assist/images/background.jpeg');
+    background-blend-mode:multiply;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+
+
+
+#text{
+    text-align: center;
+  padding-top: 80px;
+}
+#btn{
+    border-color: white;
+    border-radius: 20px;
+    background-color: white;
+    color: black;
+    
+}
+#btn1{
+    border-color: transparent;
+    border-radius: 20px;
+    background-color: transparent;
+    color: white;
+    
+}
