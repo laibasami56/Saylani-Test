@@ -4,7 +4,7 @@
     
 }
 #background{
-    background:url('/assist/images/background.jpeg');
+    background:url('background.jpeg');
     background-blend-mode:multiply;
     background-position: center;
     background-size: cover;
